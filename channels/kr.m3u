@@ -229,3 +229,22 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01101&q=SD&apikey=cit1254678
 #EXTINF:-1 tvg-id="YTNScience.kr" tvg-name="YTNScience" tvg-country="KR" tvg-language="" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C15347.png" group-title="",YTNScience
 http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C15347&q=SD&apikey=cit1254678
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://gayotv.co.kr/image/logo.jpg" tvg-url="" group-title="",가요TV
+http://gayotv.net:1935/live/gayotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.futurekorea.co.kr/news/photo/202001/127326_129561_5346.jpg" tvg-url="" group-title="",국악방송
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://dg.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/12/0df66e127a9d1c68d0d56dd7567a5b52943a71122c8fc5aecf792ff11fba3d93bb1cd98f1d1c9e2fd83a294d26e2d5f270b705711cc20b5bdaf39ed2188c5075.png" tvg-url="" group-title="",대구 MBC(MBC Daegu)
+https://5e04aba713813.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://busan.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2018/12/6e1a8d912bd32dca479bbf74667f7caf0716dd4e358e61136cecb8ca29b5b99a46b47b1d42b4a487d582c6ad6132929ff20a4cb41b344da26694ca115f5ee90a.png" tvg-url="" group-title="",대전MBC(MBC Daejeon)
+https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://ys.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/01/bbbcec12d40f91ed9d4609144a648583937ee510098fb91776a99b0c1f00e818ab090f049ebdf24b0d1b21efb7f103dea45fb0f88d2571bf1756759dfdc93fd9.png" tvg-url="" group-title="",여수MBC(MBC Yeosu)
+https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://jeju.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/06/2a42c0e8f353c0d091bd145d7384670af46a6cdf647b0d0be45f76a8faccf7ad0b144cbb6fe11b0ff81bd830478e8e5e8dc43ec1ce76bfead41eac377fcfbdc0.png" tvg-url="" group-title="",제주 MBC(MBC Jeju)
+https://5cf58a556f9b2.streamlock.net:443/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://data1.chmbc.co.kr/2018/12/d0fba52ecd26cdc49a893b9af6d468561f88e70c58accae0c6e1718bd112efc69511ffd56f9c167d6e1b215c065f844f250b1fa6df470afb30abf5cdd0153016.png" tvg-url="" group-title="",춘천MBC(MBC Chuncheon)
+https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://www.etv.go.kr/images/newimg/logo.png" tvg-url="" group-title="",한국선거방송
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+ 
