@@ -3290,7 +3290,7 @@ http://wpso.com:1936/hls/wzra.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-id="ZLiving.us" tvg-name="Z Living" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="Classic",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ZooMoo.us" tvg-name="Zoo Moo" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="",Zoo Moo
+#EXTINF:-1 tvg-id="ZooMoo.us" tvg-name="Stolen from github/free-iptv !" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="",Stolen from github/free-iptv !
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalDisney.us" tvg-name="Канал Disney" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Kids",Канал Disney
 http://188.40.68.167/russia/disney/playlist.m3u8
